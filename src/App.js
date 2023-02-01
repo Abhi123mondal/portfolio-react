@@ -47,7 +47,7 @@ function App() {
       </div>
      </nav>
     
-    <Spline scene="https://prod.spline.design/qTx8vMwphTCCrdTC/scene.splinecode"/>
+    <Spline scene="https://prod.spline.design/sZzUdQWfZeES3-ds/scene.splinecode"/>
     <div className="absolute bottom-10 w-full justify-center items-center flex">
       <div className="shadow-md p-4 flex items-center justify-center bg-zinc-900 rounded-3xl">
         <p className="text-textBase">Press and drag to orbit</p>
